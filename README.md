@@ -1,5 +1,5 @@
 # <a href='http://easyautocomplete.com' >EasyAutocomplete - plugin for jQuery</a>
-Jquery autocomplete plugin
+Jquery autocomplete plugin with cancel previous request
 
 
 ![demo](http://easyautocomplete.com/images/EasyAutocomplete.gif)
